@@ -1,3 +1,3 @@
 <?php
-
+//Added changes
 phpinfo();
